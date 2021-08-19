@@ -11,7 +11,7 @@
   <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gui-Php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Gui-hanks" width="80" src="https://c.tenor.com/Dhrbmr_t3tEAAAAd/forrest-gump-hello.gif">
+  <img align="right" alt="Gui-hanks" height="120" width="120" src="https://c.tenor.com/Dhrbmr_t3tEAAAAd/forrest-gump-hello.gif">
 </div>
   
   ##
