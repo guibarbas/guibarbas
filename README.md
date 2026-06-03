@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Souza
 
 <p>
-  CPTO na Barbas Digital Tecnologia, atuando com produto, infraestrutura e crescimento digital.
+  Produto, infraestrutura e tecnologia para crescimento digital.
 </p>
 
 <div>
