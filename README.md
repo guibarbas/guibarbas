@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/guibarbas">
     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guibarbas&theme=dracula" />
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guibarbas&theme=dracula" />
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guibarbas&theme=dracula" />
   </a>
 </div>
 
