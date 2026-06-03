@@ -3,17 +3,24 @@
 <div>
   <a href="https://github.com/guibarbas">
     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guibarbas&theme=dracula" />
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guibarbas&theme=dracula" />
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guibarbas&theme=dracula" />
   </a>
 </div>
 
-<div style="display: inline_block"><br>
+<div>
+  <a href="https://github.com/guibarbas">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guibarbas&theme=dracula" />
+  </a>
+</div>
+
+<br>
+
+<div style="display: inline_block">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gui-Php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="Gui-Hanks" height="120" width="120" src="https://c.tenor.com/Dhrbmr_t3tEAAAAd/forrest-gump-hello.gif">
 </div>
 
 ##
