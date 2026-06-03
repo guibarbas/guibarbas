@@ -2,14 +2,14 @@
 
 <div>
   <a href="https://github.com/guibarbas">
-    <img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guibarbas&theme=dracula" />
-    <img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guibarbas&theme=dracula" />
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guibarbas&theme=dracula" />
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guibarbas&theme=dracula" />
   </a>
 </div>
 
 <div>
   <a href="https://github.com/guibarbas">
-    <img height="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guibarbas&theme=dracula" />
+    <img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guibarbas&theme=dracula" />
   </a>
 </div>
 
