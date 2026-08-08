@@ -5,15 +5,15 @@
 </p>
 
 <div>
-  <a href="https://github.com/guibarbas">
-    <img width="680em" alt="GitHub Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guibarbas&theme=dracula" />
+  <a href="https://github.com/meguisouza">
+    <img width="680em" alt="GitHub Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meguisouza&theme=dracula" />
   </a>
 </div>
 
 <div>
-  <a href="https://github.com/guibarbas">
-    <img width="335em" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guibarbas&theme=dracula" />
-    <img width="335em" alt="Top Languages by Repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guibarbas&theme=dracula" />
+  <a href="https://github.com/meguisouza">
+    <img width="335em" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meguisouza&theme=dracula" />
+    <img width="335em" alt="Top Languages by Repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meguisouza&theme=dracula" />
   </a>
 </div>
 
@@ -45,4 +45,4 @@
 
 <br>
 
-![Snake animation](https://github.com/guibarbas/guibarbas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/meguisouza/meguisouza/blob/output/github-contribution-grid-snake.svg)
